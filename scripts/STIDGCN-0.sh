@@ -1,0 +1,1 @@
+nohup python -u run.py --model STIDGCN --train AttDGCN --gpu 0 >./scripts/STIDGCN-0.log &

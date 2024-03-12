@@ -1,0 +1,1 @@
+nohup python -u run.py --model CrossFormer --train CrossFormer --gpu 0 >./scripts/CrossFormer-0.log &

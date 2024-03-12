@@ -1,0 +1,1 @@
+nohup python -u run.py --model AGCRN --gpu 0 >./scripts/AGCRN.log &

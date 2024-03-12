@@ -1,0 +1,1 @@
+nohup python -u run.py --model PDFormer --train PDFormer --gpu 0 >./scripts/PDFormer.log &
